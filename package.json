@@ -1,0 +1,31 @@
+{
+  "name": "tollinfo",
+  "version": "1.0.0",
+  "description": "National Highway Toll Informations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayyappan-au13/tollinfo.git"
+  },
+  "keywords": [
+    "NH",
+    "National",
+    "Highway",
+    "Toll",
+    "Information",
+    "NHAI"
+  ],
+  "author": "Ayyappan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayyappan-au13/tollinfo/issues"
+  },
+  "homepage": "https://github.com/Ayyappan-au13/tollinfo#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2"
+  }
+}
